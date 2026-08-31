@@ -1,0 +1,125 @@
+{
+  "source": "tatoli",
+  "generated_at": "2026-08-31T06:51:04.601397",
+  "topics": [
+    {
+      "cluster_id": 0,
+      "label": "bispu / indo / indo zia",
+      "top_terms": [
+        "bispu",
+        "indo",
+        "indo zia",
+        "xana",
+        "zia",
+        "fronteira",
+        "fronteira mar",
+        "mar",
+        "restu mort",
+        "mort bispu"
+      ],
+      "news_count": 2
+    },
+    {
+      "cluster_id": 1,
+      "label": "konsulta / konsulta popul / popul",
+      "top_terms": [
+        "konsulta",
+        "konsulta popul",
+        "popul",
+        "ist",
+        "hosi",
+        "unidade",
+        "reflesau",
+        "ria",
+        "liberdade",
+        "leste"
+      ],
+      "news_count": 3
+    },
+    {
+      "cluster_id": 2,
+      "label": "obriga / tiku adota / nep",
+      "top_terms": [
+        "obriga",
+        "tiku adota",
+        "nep",
+        "pol",
+        "mate",
+        "pol tiku",
+        "pontu",
+        "adota rezolusau",
+        "obriga partidu",
+        "partidu"
+      ],
+      "news_count": 1
+    },
+    {
+      "cluster_id": 3,
+      "label": "kompetisau / kompetisau hakerek / kriativu",
+      "top_terms": [
+        "kompetisau",
+        "kompetisau hakerek",
+        "kriativu",
+        "hakerek kriativu",
+        "cristi",
+        "ximenes sai",
+        "ximenes",
+        "sai primeiru",
+        "cristi ximenes",
+        "primeiru lugar"
+      ],
+      "news_count": 1
+    },
+    {
+      "cluster_id": 4,
+      "label": "xanana / vizita / mari",
+      "top_terms": [
+        "xanana",
+        "vizita",
+        "mari",
+        "protesaun biodiversidad",
+        "ctc",
+        "protesaun",
+        "biodiversidad",
+        "bali",
+        "8217",
+        "hametin protesaun"
+      ],
+      "news_count": 1
+    },
+    {
+      "cluster_id": 5,
+      "label": "sentru / kontratu / fftl",
+      "top_terms": [
+        "sentru",
+        "kontratu",
+        "fftl",
+        "treinad",
+        "selebra kontratu",
+        "kontratu treinad",
+        "piu",
+        "sentru juvenil",
+        "munis piu",
+        "fftl selebra"
+      ],
+      "news_count": 1
+    },
+    {
+      "cluster_id": 6,
+      "label": "venezuela / akordu / venezuela anunsia",
+      "top_terms": [
+        "venezuela",
+        "akordu",
+        "venezuela anunsia",
+        "anunsia",
+        "anunsia akordu",
+        "petrol feru",
+        "petrol",
+        "feru",
+        "feru eua",
+        "akordu petrol"
+      ],
+      "news_count": 1
+    }
+  ]
+}

@@ -125,7 +125,7 @@ def print_summary(result: dict):
 
     print("\n" + "=" * 70)
     print(f"Total berita (kumulatif) : {len(df)}")
-    print(f"Jumlah topik terdeteksi  : {result['topic_model'].best_k}")
+    print(f"total topik terdeteksi  : {result['topic_model'].best_k}")
     if "scraped_new_articles" in raw_paths:
         print(f"Artikel di-scrape penuh pada run ini : {raw_paths['scraped_new_articles']}")
         if raw_paths.get("failed_articles"):
